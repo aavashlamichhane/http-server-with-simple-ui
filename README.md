@@ -81,5 +81,5 @@ serve_dir --dir /home/user/shared --port 8080
 
 ---
 
-Enjoy seamless file sharing with `serve_dir`!
+Enjoy beautiful file sharing with `serve_dir`!
 
